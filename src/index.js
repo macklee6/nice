@@ -12,7 +12,7 @@ const CONFIG = {
   DEFAULT_TTL: 24 * 60 * 60,
   READ_ONCE_TTL: 24 * 60 * 60,
   ALLOWED_ORIGINS: [
-    'https://code.niceo.de',
+    'https://ok.arksec.net',
   ],
   TTL_MAP: {
     '5min': 5 * 60,
